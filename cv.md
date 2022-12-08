@@ -11,7 +11,7 @@ title: Sherzat Zaripov's cv
 ## Contacts
 
 * Phone: +7 (702) 171 69-12
-* Email: [mailto:sherzatzaripov559@gmail.com](sherzatzaripov559@gmail.com)
+* Email: [sherzatzaripov559@gmail.com](mailto:sherzatzaripov559@gmail.com)
 * Telegram: [t.me/Sherrrrrz](https://t.me/Sherrrrrz)
 * GitHub: [github.com/Sher77](https://github.com/Sher77)
 * Discord: Sher(@Sher77)

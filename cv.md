@@ -6,26 +6,65 @@ title: Sherzat Zaripov's cv
 
 # Zaripov Sherzat
 
-Student at IITU
+---
+
+## Contacts
+
+* Phone: +7 (702) 171 69-12
+* Email: [sherzatzaripov559@gmail.com](sherzatzaripov559@gmail.com)
+* Telegram: [t.me/Sherrrrrz](https://t.me/Sherrrrrz)
+* GitHub: [github.com/Sher77](https://github.com/Sher77)
+* Discord: Sher(@Sher77)
 
 ## About me
 
-A student of the 2-nd year of the IITU, was engaged in self-studying of JS in learn.javascript.ru, got a grant at the DSAcademy.
+I am 20 years old, I am a student at the International University of Information Technologies(IITU), I studied the basics of JS on my own at [learn.javascript.ru](https://learn.javascript.ru/) and received a grant to study at DSAcademy.
+
+I strive to become a professional front-end developer and find my first offer as soon as possible.
 
 ## Education
 
 `2017-2021`
 Innovative Technical College of Almaty
 
-`2021-2022`
+`2021-2024`
 International Information Technology University
 
 ## Skills
 
-* HTML
-* CSS
-* SCSS
-* JS
+* HTML5
+* CSS3
+* JavaScript (Basic)
+* Tools
+    * SCSS
+    * Figma, photoshop
+* Methodologies
+    * BEM
+
+## Code Example
+
+[Dublicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+
+Task: The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
+
+```
+function duplicateEncode(word){
+    let result = '';
+    const duplicates = word.toLowerCase().split('').filter((number, index, values) => {
+        return values.indexOf(number) != index;
+    })
+
+    word.toLowerCase().split('').map(item => {
+        if (duplicates.includes(item)) {
+            result += ')';
+        } else {
+            result += '(';
+        }
+    })
+
+    return result;
+}
+```
 
 ## Experience
 
@@ -34,24 +73,21 @@ I have no working experience, I was engaged in the layout of small sites, landin
 Tools:
 
 * HTML
-* SCSS
+* CSS 
+    * SCSS
 * JS
 * BEM
 
 Site of the "Sagmau" campaign, for building quarries. You can see the project at the link below.
 
-https://sher77.github.io/Samgau/
+[Samgau](https://sher77.github.io/Samgau/)
 
 Online store "Sofa" selling furniture. You can see the project at the link below.
 
-https://sher77.github.io/Sofa/
+[Sofa](https://sher77.github.io/Sofa/)
 
-## English level
+## Languages
 
-I am self-taught English. Estimated level - B1
-
-## Contacts
-
-8 (702) 171 69-12
-
-sherzatzaripov559@gmail.com
+* Russian - Native
+* Kazakh - B2
+* English - B1

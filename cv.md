@@ -2,7 +2,7 @@
 title: Sherzat Zaripov's cv
 ---
 
-![Zaripov Sherzat](C:/Users/zarip/OneDrive/Рабочий стол/Sher.jpg)
+![](https://img.webnovel.com/bookcover/20829716505192705/300/300.jpg?updateTime=1628339525287)
 
 # Zaripov Sherzat
 

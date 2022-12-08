@@ -2,7 +2,8 @@
 title: Sherzat Zaripov's cv
 ---
 
-![Zaripov Sherzat]("C:\Users\zarip\OneDrive\Рабочий стол\Sher.jpg")
+![Zaripov Sherzat](C:/Users/zarip/OneDrive/Рабочий стол/Sher.jpg)
+
 # Zaripov Sherzat
 
 Student at IITU
@@ -44,3 +45,13 @@ https://sher77.github.io/Samgau/
 Online store "Sofa" selling furniture. You can see the project at the link below.
 
 https://sher77.github.io/Sofa/
+
+## English level
+
+I am self-taught English. Estimated level - B1
+
+## Contacts
+
+8 (702) 171 69-12
+
+sherzatzaripov559@gmail.com

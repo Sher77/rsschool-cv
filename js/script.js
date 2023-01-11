@@ -12,9 +12,9 @@ function smoothScroll(event) {
     document.querySelector(href).scrollIntoView({
         behavior: 'smooth',
     });
-    burgerBtn.classList.toggle('active');
-    nav.classList.toggle('hide');
-    body.classList.toggle('overflow-hidden')
+    burgerBtn.classList.remove('active');
+    nav.classList.remove('hide');
+    body.classList.remove('overflow-hidden')
 }
 
 const changeTheme = document.querySelector('.logo');
